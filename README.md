@@ -9,7 +9,7 @@
 - 🔭 Currently working on improving my **React & Next.js** skills  
 - 🌱 Learning **TypeScript** and advanced **UI/UX concepts**  
 - 💬 Ask me about **JavaScript, React, Tailwind CSS**  
-- 📫 How to reach me: [Email](mailto:your@email.com) | [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 📫 How to reach me: [Email](mailto:heshamsaif856@gmail.com) | [LinkedIn](https://www.linkedin.com/in/hesham-saif-6b4846353/)  
 
 ---
 
@@ -22,7 +22,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Hesham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+![Hesham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heshammmsaifff&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heshammmsaifff&layout=compact&theme=tokyonight)  
 
 ---
