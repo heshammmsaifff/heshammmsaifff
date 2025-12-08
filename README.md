@@ -18,13 +18,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,git,github,vscode" />
 </p>
 
-
----
-
-## 📊 GitHub Stats
-![Hesham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heshammmsaifff&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heshammmsaifff&layout=compact&theme=tokyonight)  
-
 ---
 
 ## 🌐 Connect with Me
