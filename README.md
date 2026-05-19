@@ -1,143 +1,124 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56A0&height=200&section=header&text=Hesham%20Saif&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=140&text=HESHAM%20SAIF&fontColor=1A56A0&fontSize=52&fontAlignY=55&desc=Full%20Stack%20Web%20Developer&descColor=8B949E&descSize=17&descAlignY=78" width="100%"/>
 
-<!-- Animated Typing -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A56A0&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;Next.js+%7C+React+%7C+Tailwind+CSS;Supabase+%7C+.NET+%7C+Angular;Building+real+products+for+real+clients+%F0%9F%9A%80;Open+to+new+opportunities+%F0%9F%A4%9D" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=1A56A0&center=true&vCenter=true&width=650&lines=Next.js+%2F+React+%2F+Tailwind+%2F+TypeScript;Supabase+%2F+REST+APIs+%2F+Framer+Motion;C%23+%2F+ASP.NET+%2F+Angular+%2F+Docker;2%2B+years+building+production+web+apps;Cairo%2C+Egypt+—+Available+for+opportunities" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hesham-saif-6b4846353/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A56A0?style=for-the-badge&logo=vercel&logoColor=white)](https://hesham-saif-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heshamsaif856@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201092141964)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=heshammmsaifff&color=1A56A0&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
-
 ```typescript
 const hesham = {
-  name:       "Hesham Abderahman Mostafa Ali",
-  title:      "Full Stack Web Developer",
-  location:   "Cairo, Egypt 🇪🇬",
-  experience: "2+ years of freelance development",
+  role:       "Full Stack Web Developer",
+  location:   "Cairo, Egypt",
+  experience: "2+ years — freelance & client work",
 
-  currentlyDoing: [
-    "🎓 Completing ITI program — Full Stack & Generative AI (.NET track)",
-    "🔨 Building production web apps for clients in 🇪🇬 Egypt & 🇸🇦 Saudi Arabia",
-    "📚 Expanding into C#, Angular, Docker & AI development",
-  ],
-
-  techStack: {
-    frontend:   ["Next.js", "React.js", "TypeScript", "JavaScript"],
-    styling:    ["Tailwind CSS", "Bootstrap", "Framer Motion", "GSAP"],
-    backend:    ["Supabase", "PostgreSQL", "REST APIs"],
-    dotNet:     ["C#", "ASP.NET MVC", "Web APIs (.NET)", "Angular", "Docker"],
-    tools:      ["Git", "GitHub", "VS Code", "next-intl"],
+  stack: {
+    frontend:  ["Next.js", "React.js", "TypeScript", "JavaScript"],
+    styling:   ["Tailwind CSS", "Bootstrap", "Framer Motion", "GSAP"],
+    backend:   ["Supabase", "PostgreSQL", "REST APIs"],
+    dotNet:    ["C#", "ASP.NET MVC", "Web APIs (.NET)", "Angular", "Docker"],
+    tools:     ["Git", "GitHub", "VS Code", "next-intl"],
   },
 
-  softSkills: ["Client Communication", "Negotiation", "Needs Assessment"],
-  openTo:     "Full-time & freelance opportunities 🤝",
+  clients:    ["Egypt", "Saudi Arabia"],
+  openTo:     "Full-time & freelance opportunities",
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack
 
-### 🌐 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css&theme=light" />
-</p>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css&theme=dark" />
 
-### 🎨 Styling & Animations
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="48"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" height="48"/>
-</p>
+**Styling & Animations**
+<br/>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white&labelColor=0D1117" height="46"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black&labelColor=0D1117" height="46"/>
 
-### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=supabase,postgres" />
-</p>
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=supabase,postgres&theme=dark" />
 
-### 🔷 .NET Track (ITI)
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,docker,mysql" />
-</p>
+**.NET Track**
+<br/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,docker,mysql&theme=dark" />
 
-### 🧰 Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 ---
 
-## 🌐 Featured Projects
+## Featured Projects
 
-| Project | Description | Tech Stack | Live |
-|---------|-------------|------------|------|
-| **Al Nasr Store** | E-commerce for cosmetics, skincare & vitamins 🇪🇬 | Next.js · Tailwind · Supabase | [alnasr1.com](https://alnasr1.com) |
-| **Muthla Real Estate** | Corporate site + CRM + Dashboard — AR/EN 🇸🇦 | Next.js · Tailwind · Supabase · next-intl | [muthla.com.sa](https://muthla.com.sa) |
-| **Hayaalaa Fashion** | Women's clothing e-commerce store 🇪🇬 | Next.js · Tailwind · Supabase | [hayaalaa.com](https://hayaalaa.com) |
-| **Last Line** | Digital marketing & contracting corporate site 🇸🇦 | Next.js · Tailwind · Supabase | [lastline2.com](https://lastline2.com) |
-| **BrandEx Co.** | Digital marketing agency website 🇸🇦 | Next.js · Tailwind · Supabase | [brandexco.com](https://brandexco.com) |
-| **Al Bayt Al Mutaalek** | Contracting & interior design firm 🇸🇦 | Next.js · Tailwind · Supabase | [albayt-almutaalek.com](https://albayt-almutaalek.com) |
-| **Zawaya Art** | Premium kitchens & wardrobe showcase 🇪🇬 | Next.js · Tailwind · Supabase | [zawayaart.com](https://zawayaart.com) |
+| Project | Stack | Live |
+|---------|-------|------|
+| **Al Nasr Store** — E-commerce for cosmetics, skincare & vitamins | Next.js · Tailwind · Supabase | [alnasr1.com](https://alnasr1.com) |
+| **Muthla Real Estate** — Corporate site + CRM + Dashboard (AR/EN) | Next.js · Tailwind · Supabase · next-intl | [muthla.com.sa](https://muthla.com.sa) |
+| **Hayaalaa Fashion** — Women's clothing e-commerce store | Next.js · Tailwind · Supabase | [hayaalaa.com](https://hayaalaa.com) |
+| **Last Line** — Digital marketing & contracting corporate site | Next.js · Tailwind · Supabase | [lastline2.com](https://lastline2.com) |
+| **BrandEx Co.** — Digital marketing agency website | Next.js · Tailwind · Supabase | [brandexco.com](https://brandexco.com) |
+| **Al Bayt Al Mutaalek** — Contracting & interior design firm | Next.js · Tailwind · Supabase | [albayt-almutaalek.com](https://albayt-almutaalek.com) |
+| **Zawaya Art** — Kitchens & wardrobe solutions showcase | Next.js · Tailwind · Supabase | [zawayaart.com](https://zawayaart.com) |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=heshammmsaifff&show_icons=true&theme=default&title_color=1A56A0&icon_color=1A56A0&text_color=111111&border_color=1A56A0&border_radius=10&hide_border=false" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshammmsaifff&layout=compact&theme=default&title_color=1A56A0&text_color=111111&border_color=1A56A0&border_radius=10&hide_border=false" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=heshammmsaifff&theme=dark&ring=1A56A0&fire=1A56A0&currStreakLabel=1A56A0&background=0D1117&border=1A56A0&sideLabels=8B949E&dates=8B949E&border_radius=8" height="160"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=heshammmsaifff&theme=default&ring=1A56A0&fire=1A56A0&currStreakLabel=1A56A0&border=1A56A0&border_radius=10" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=heshammmsaifff&bg_color=0D1117&color=1A56A0&line=1A56A0&point=ffffff&area=true&area_color=1A56A0&hide_border=false&border_color=1A56A0&radius=8" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 Experience Timeline
+## Experience
 
 ```
-📍 Jun 2024 – Present  →  Full Stack Web Developer (Freelance) — Remote
-📍 Oct 2023 – Apr 2025 →  Insurance Specialist @ MetLife Egypt
-📍 Jul 2021 – Nov 2022 →  Direct Sales Representative @ National Bank of Egypt (NBE)
+Full Stack Web Developer  —  Freelance (Remote)          Jun 2024 → Present
+Insurance Specialist      —  MetLife Egypt               Oct 2023 → Apr 2025
+Direct Sales Rep.         —  National Bank of Egypt      Jul 2021 → Nov 2022
 
-🎓 Jan 2026 – Jun 2026 →  ITI — Full Stack & Generative AI (.NET) | Cairo
-🎓 Graduated 2020      →  Bachelor of Law | Faculty of Law, Zagazig University
+Full Stack & AI Dev       —  Intensive Program           Jan 2026 → Jun 2026
+Bachelor of Law           —  Zagazig University          Graduated 2020
 ```
 
 ---
 
 <div align="center">
 
-### 💬 Let's Build Something Together!
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hesham-saif-6b4846353/)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heshamsaif856@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-1A56A0?style=for-the-badge&logo=vercel&logoColor=white)](https://hesham-saif-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hesham-saif-6b4846353/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heshamsaif856@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56A0&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=60&section=footer&fontColor=1A56A0" width="100%"/>
 
 </div>
